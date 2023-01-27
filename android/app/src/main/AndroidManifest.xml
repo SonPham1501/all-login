@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.alllogin">
+    package="com.son.app.alllogin">
    <application
         android:label="alllogin"
         android:name="${applicationName}"

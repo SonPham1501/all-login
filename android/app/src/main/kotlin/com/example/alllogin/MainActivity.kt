@@ -1,4 +1,4 @@
-package com.example.alllogin
+package com.son.app.alllogin
 
 import io.flutter.embedding.android.FlutterActivity
 
